@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rohan Kute
+#  Hi, I'm Rohan Kute
 
 ### 🎓 BSc Third Year — Data Science
 
